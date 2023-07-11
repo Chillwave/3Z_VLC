@@ -1,4 +1,4 @@
-# ideal-garbanzo
+# 3Z_VLC
 Script to cycle through network streams every so seconds through opening up and closing a VLC stream.
 
 # operation
