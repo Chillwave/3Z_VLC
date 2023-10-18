@@ -7,3 +7,7 @@ Script to cycle through network streams every so seconds through opening up and 
 * Verify Streams.txt exists and is properly formatted.
 
 * Set the time in seconds. 7 works well.
+
+# Notes
+
+* RTSP is broken on installs orginiating from Apt. Use the Snap version of VLC instead.
